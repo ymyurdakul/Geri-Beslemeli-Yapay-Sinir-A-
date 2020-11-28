@@ -1,0 +1,1 @@
+# Geri-Beslemeli-Yapay-Sinir-A-
