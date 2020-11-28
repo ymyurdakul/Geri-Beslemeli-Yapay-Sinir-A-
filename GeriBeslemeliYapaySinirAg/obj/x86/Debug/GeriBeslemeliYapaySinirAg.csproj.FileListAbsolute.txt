@@ -1,0 +1,26 @@
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\bin\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\bin\Debug\GeriBeslemeliYapaySinirAg.pdb
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.Form1.resources
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.Properties.Resources.resources
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.csproj.GenerateResource.Cache
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.pdb
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.pdb
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.Form1.resources
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\bin\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\bin\Debug\GeriBeslemeliYapaySinirAg.pdb
+C:\Users\Mustafa\Desktop\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\Desktop\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.pdb
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\bin\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\bin\Debug\GeriBeslemeliYapaySinirAg.pdb
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.Form1.resources
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.exe
+C:\Users\Mustafa\Desktop\proje\yapay zeka\173301089_ysa\GeriBeslemeliYapaySinirAg\GeriBeslemeliYapaySinirAg\obj\x86\Debug\GeriBeslemeliYapaySinirAg.pdb
